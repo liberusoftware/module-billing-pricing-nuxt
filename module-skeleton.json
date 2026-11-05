@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-pricing-nuxt",
+  "capabilityKey": "liberusoftware/module-billing-pricing",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-billing-pricing-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/billing/nextjs/pricing.md",
+  "presentationPlan": "projects/billing/nuxt/pricing.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
